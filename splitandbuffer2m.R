@@ -1,3 +1,4 @@
+#work with ms building footprint
 library(raster)
 library(rgdal)
 library(rgeos)
